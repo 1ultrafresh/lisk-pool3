@@ -1,32 +1,37 @@
+  GNU nano 4.8                                         poollogs.json                                                   
 {
     "lastPayout": {
-        "date": 1631242802,
-        "rewards": 93000000000,
-        "producedBlocks": 930
+        "date": 1631281325,
+        "rewards": 96700000000,
+        "producedBlocks": 967
     },
     "pending": {
-        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 28653329,
-        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 573064,
-        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 286531,
-        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 4899389,
-        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 28653329,
-        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 32922677,
-        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 154011662
+        "lskscse9jsp62sg2yw37t8n65bxswfodkto7vyja4": 0,
+        "lskts8ms7fcsk8oremb9qjx6sdt8dbzjtuxj3yepu": 0,
+        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 0,
+        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 0,
+        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 0,
+        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 0,
+        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 0,
+        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 0,
+        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 0
     },
     "paid": {
-        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 5288736420,
-        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 105774728,
-        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 52887364,
-        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 1010148656,
-        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 5288736420,
-        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 6076758147,
-        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 28426958261
+        "lskscse9jsp62sg2yw37t8n65bxswfodkto7vyja4": 474019607,
+        "lskts8ms7fcsk8oremb9qjx6sdt8dbzjtuxj3yepu": 6541470588,
+        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 4740196078,
+        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 94803921,
+        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 47401960,
+        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 786872549,
+        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 4740196078,
+        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 5446485294,
+        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 25478553921
     },
     "history": [
         {
-            "date": 1631238795,
-            "userPaid": 7,
-            "rewards": 46249999996
+            "date": 1631281376,
+            "userPaid": 9,
+            "rewards": 48349999996
         }
     ]
 }
