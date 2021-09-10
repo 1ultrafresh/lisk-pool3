@@ -1,0 +1,32 @@
+{
+    "lastPayout": {
+        "date": 1631242802,
+        "rewards": 93000000000,
+        "producedBlocks": 930
+    },
+    "pending": {
+        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 28653329,
+        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 573064,
+        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 286531,
+        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 4899389,
+        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 28653329,
+        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 32922677,
+        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 154011662
+    },
+    "paid": {
+        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 5288736420,
+        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 105774728,
+        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 52887364,
+        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 1010148656,
+        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 5288736420,
+        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 6076758147,
+        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 28426958261
+    },
+    "history": [
+        {
+            "date": 1631238795,
+            "userPaid": 7,
+            "rewards": 46249999996
+        }
+    ]
+}
