@@ -1,37 +1,41 @@
-                            poollogs.json                                                   
-{
+  {
     "lastPayout": {
-        "date": 1631470502,
-        "rewards": 114800000000,
-        "producedBlocks": 1151
+        "date": 1632108603,
+        "rewards": 176700000000,
+        "producedBlocks": 1770
     },
     "pending": {
-        "lskscse9jsp62sg2yw37t8n65bxswfodkto7vyja4": 0,
+        "lskscse9jsp62sg2yw37t8n65bxswfodkto7vyja4": 8705531,
         "lskts8ms7fcsk8oremb9qjx6sdt8dbzjtuxj3yepu": 0,
         "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 0,
-        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 0,
-        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 0,
-        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 0,
+        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 1741093,
+        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 870535,
+        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 14451193,
         "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 0,
-        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 0,
-        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 0,
-        "lskjzu3ypuac8avm4nnnpzvy976gfxh8fhfa5uec5": 0,
-        "lskoofms2f2utwx246ysxfpd7zdb3zhkjy6jc5wbu": 0,
-        "lskhvvy42zrd8vr9842jhc3vmfun9rm8kw8g653wy": 0
+        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 100026784,
+        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 467923381,
+        "lskjzu3ypuac8avm4nnnpzvy976gfxh8fhfa5uec5": 7834996,
+        "lskoofms2f2utwx246ysxfpd7zdb3zhkjy6jc5wbu": 217638775,
+        "lskhvvy42zrd8vr9842jhc3vmfun9rm8kw8g653wy": 470099763,
+        "lskpz6pnq5gokpu7g7gweqkxo4nvjhd2jrrxunpfu": 873114,
+        "lsknonb5jocacc4qkt5sobbhxcueccmk65uz8wgas": 6790319,
+        "lskafgqk6ekypqwwwxbhmfxtwgb6u7b5zhv5xz7e2": 3917498
     },
     "paid": {
-        "lskscse9jsp62sg2yw37t8n65bxswfodkto7vyja4": 557356719,
-        "lskts8ms7fcsk8oremb9qjx6sdt8dbzjtuxj3yepu": 7691523349,
-        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 5573567638,
-        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 111471302,
-        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 55735599,
-        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 925212160,
-        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 5573567638,
-        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 6404029205,
-        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 29957926424,
-        "lskjzu3ypuac8avm4nnnpzvy976gfxh8fhfa5uec5": 37062222,
-        "lskoofms2f2utwx246ysxfpd7zdb3zhkjy6jc5wbu": 482860295,
-        "lskhvvy42zrd8vr9842jhc3vmfun9rm8kw8g653wy": 29686641
+        "lskscse9jsp62sg2yw37t8n65bxswfodkto7vyja4": 752549907,
+        "lskts8ms7fcsk8oremb9qjx6sdt8dbzjtuxj3yepu": 7915989640,
+        "lsk22o3576zycbbqqbo9jb2cx79qr9cbo95v5z6mf": 5727498366,
+        "lsk56bjvjkwew7e5kd9czq7ogdf6gzuh8bx6r4pap": 150509663,
+        "lskz5994gd5a7upmnktyg8czhs87rqnaae5bnp5cg": 75254531,
+        "lskfygfkpwqqru7zfxsbwzgkfbmmzzyx5jvcguehq": 1249233080,
+        "lskhf42ocyxrs8c5j3osj92emh9gh2rtewprpyrd6": 5821613352,
+        "lsk88yjt2vpyrxbfbn3vn46du7nwwucwrpg7ytd8c": 8646802085,
+        "lskrjqhd5zqbrfkbmnp9qkrz99ne5bas9opdrknus": 40449575673,
+        "lskjzu3ypuac8avm4nnnpzvy976gfxh8fhfa5uec5": 212736115,
+        "lskoofms2f2utwx246ysxfpd7zdb3zhkjy6jc5wbu": 5362697021,
+        "lskhvvy42zrd8vr9842jhc3vmfun9rm8kw8g653wy": 10570134398,
+        "lsknonb5jocacc4qkt5sobbhxcueccmk65uz8wgas": 97352943,
+        "lskafgqk6ekypqwwwxbhmfxtwgb6u7b5zhv5xz7e2": 17176722
     },
     "history": [
         {
@@ -43,6 +47,11 @@
             "date": 1631470889,
             "userPaid": 12,
             "rewards": 9049999196
+        },
+        {
+            "date": 1632080796,
+            "userPaid": 14,
+            "rewards": 29649124304
         }
     ]
 }
